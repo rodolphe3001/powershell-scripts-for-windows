@@ -1,3 +1,4 @@
+
 $progressPreference = 'silentlyContinue'
 
 Write-Host "Installing WinGet PowerShell module from PSGallery..."
